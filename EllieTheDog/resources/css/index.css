@@ -1,0 +1,33 @@
+* {
+    font-family: Helvetica, Arial, Courier, sans-serif;
+  }
+   
+  body {
+    background-color: indigo; color: white
+  } 
+
+  h1 {
+    color: LightGreen;
+  }
+   
+  h2 {
+    color: yellowgreen;
+  }
+
+  h3 {
+    color: turquoise;
+  }
+
+  h4 {
+    color: violet
+  }
+
+  p, 
+  li {
+    font-size: 14px;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
